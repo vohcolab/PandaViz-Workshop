@@ -1,4 +1,11 @@
 # PandaViz-Workshop
 
+* Python
+* Pandas
+* Bokeh
 
-Workshop de pandas e bokeh em desenvolvimento.
+### Desafios
+
+1. 
+2. 
+3.
