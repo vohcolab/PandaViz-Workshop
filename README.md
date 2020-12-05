@@ -52,3 +52,8 @@ You can acess the learning material in the following links:
 
 ### Exercises Notebook
 - https://colab.research.google.com/github/vohcolab/PandaViz-Workshop/blob/main/Beatnik%20Use%20case/Exercise%20Bo(o)keh.ipynb
+
+
+# Our organization
+
+We are a research group that focus on health projects. Our team is multidisciplinary which allows us to collaborate in creative and effective ways. You can find more about us or contact us here: https://vohcolab.org
