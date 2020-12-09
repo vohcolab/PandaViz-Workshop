@@ -47,7 +47,7 @@ Our [slack](https://join.slack.com/t/voh-communitylab/shared_invite/zt-jpm17vgi-
 - [Exercises Notebook](https://colab.research.google.com/github/vohcolab/PandaViz-Workshop/blob/main/Pandas/Time%20Series/Multi-Indexing/Exercise%20Notebook%20-%20Multi%20Indexing.ipynb)
 - [Solutions Notebook](https://colab.research.google.com/github/vohcolab/PandaViz-Workshop/blob/main/Pandas/Time%20Series/Multi-Indexing/Solutions%20Notebook%20-%20Multi%20Indexing.ipynb)
 
-# Visualization wwith Bokeh
+# Visualization with Bokeh
 - [Learning Notebook](https://colab.research.google.com/github/vohcolab/PandaViz-Workshop/blob/main/Beatnik%20Use%20case/Learning%20Bo(o)keh.ipynb)
 - [Exercises Notebook](https://colab.research.google.com/github/vohcolab/PandaViz-Workshop/blob/main/Beatnik%20Use%20case/Exercise%20Bo(o)keh.ipynb)
 
